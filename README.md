@@ -1,3 +1,3 @@
 
 
-[Watch the Demo Video](docs/demo.mp4)
+[Watch the Demo Video](docs/demo.gif)
