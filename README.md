@@ -1,5 +1,7 @@
 # RAG System Overview
 
+![Watch the Demo Video](https://github.com/siesto1elemento/Internal-employee-rag-chatbot/blob/master/docs/demo.gif)
+
 This document outlines the architecture and workflow of my Retrieval-Augmented Generation (RAG) system, designed to provide intelligent answers based on a business policy template.
 
 ## Workflow Steps
@@ -33,4 +35,4 @@ This document outlines the architecture and workflow of my Retrieval-Augmented G
 * **Embedding Model**: `OpenAI Text Embeddings` (small model).
 * **Parsing**: `OpenParse`.
 
-![Watch the Demo Video](https://github.com/siesto1elemento/Internal-employee-rag-chatbot/blob/master/docs/demo.gif)
+
